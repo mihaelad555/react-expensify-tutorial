@@ -1,0 +1,9 @@
+{  "snapshotSerializers" : [
+    "enzyme-to-json/serializer"
+],
+    "setupFiles" : [
+        "raf/polyfill",
+        "/Users/mihaelad/udemytotorials/expensify-app/src/tests/setupTests.js"
+    ]
+   
+}
